@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\Weather2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35ECE3E0-501B-4997-943C-FC67CCAC4BEE}|Weather2.csproj|c:\\users\\samue\\desktop\\weather2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ECE3E0-501B-4997-943C-FC67CCAC4BEE}|Weather2.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ECE3E0-501B-4997-943C-FC67CCAC4BEE}|Weather2.csproj|c:\\users\\samue\\desktop\\weather2\\models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ECE3E0-501B-4997-943C-FC67CCAC4BEE}|Weather2.csproj|solutionrelative:models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherModel.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Weather2\\Models\\WeatherModel.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherModel.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Weather2\\Models\\WeatherModel.cs",
+              "RelativeToolTip": "Models\\WeatherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:30:25.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Weather2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Weather2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:28:57.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
